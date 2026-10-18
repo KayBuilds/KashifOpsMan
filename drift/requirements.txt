@@ -1,0 +1,7 @@
+# Phase 1
+PySide6>=6.7,<7
+# Phase 2+ (not needed yet)
+# Pillow
+# pillow-heif
+# PyMuPDF
+# py7zr
